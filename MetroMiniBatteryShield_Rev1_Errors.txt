@@ -1,0 +1,12 @@
+Errors:
+
+-Tri-Color LED wired as common cathode instead of common anode. 
+	Replace GND connection with +5V
+-Jumpers for PWR, EXT, and ISET are difficult to access when Metro Mini is installed on top
+	-Replace Jumpers with right angle connectors or something easily accessible from side or bottom
+-CHG and PGOOD LED silkscreens are reversed 
+-Adjust resistor value for PGOOD LED, find new part number for red 0603 SMD Led
+-Lower resistor value on Tri-Color LED to make brighter (likely 100-120 ohm)
+-JST Connector is wrong, pins are too big for battery connector, replace with correct part
+	-Connectors has "wings" coming off sides towards center of board, find part without
+

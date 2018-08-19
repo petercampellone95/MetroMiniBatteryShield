@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MetroMiniBatteryShieldPCB1.CMPcbDoc   3/28/2018  8:49:32 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MetroMiniBatteryShieldPCB1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          16               1.25 Inch (31.84 mm)
+T2        15mil (0.381mm)          Round          36               4.87 Inch (123.68 mm)
+T3        35mil (0.889mm)          Round          3                0.20 Inch (5.08 mm)
+T4        35.4mil (0.89916mm)      Round          2                0.10 Inch (2.50 mm)
+T5        39.4mil (1.00076mm)      Round          28               3.50 Inch (88.90 mm)
+T6        40mil (1.016mm)          Round          4                0.47 Inch (11.94 mm)
+T7        86.6mil (2.19964mm)      Round          4         NPTH   3.65 Inch (92.71 mm)
+---------------------------------------------------------------------------
+Totals                                            93               14.04 Inch (356.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
