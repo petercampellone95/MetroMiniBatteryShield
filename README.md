@@ -25,4 +25,4 @@ After the design stage was completed the Gerber design files were sent to OSH Pa
 
 
 
-*Please see the ELE391 Final Project report for more specific details*
+*Please see the ELE391 Final Project report for more specific technical details*
