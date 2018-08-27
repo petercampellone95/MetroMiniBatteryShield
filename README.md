@@ -17,3 +17,12 @@ The battery shield was designed with the following requirements/features in mind
 - Feature a built-in 5V step-up regulator that can take a wide range of input voltage and output a constant 5V (primarily used for stepping up LiPo 3.7V to 5V)
 
 
+The entire board was designed using Altium Circuitmaker which is a free,stripped down version of Altium Designer. While limited, the software was more than capable for our requirements.
+After the design stage was completed the Gerber design files were sent to OSH Park where three copies of our board were fabricated along with a stencil from OSH Stencils. From here we assembled one complete board and began our testing the results of which you can find more about in the final project report. Overall though, the board operated as expected with only some minor design changes needed.
+
+
+
+
+
+
+*Please see the ELE391 Final Project report for more specific details*
