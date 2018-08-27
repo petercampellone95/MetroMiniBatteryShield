@@ -11,7 +11,7 @@ The battery shield was designed with the following requirements/features in mind
 - Be able to take power in from either an external source or from the USB cable connected to the Metro Mini board
 - Be able to switch between USB power and battery power automatically in the case that either one is not available
 - Be able to measure current draw using a built-in current sense resistor
-- Be able to set the charge rate in order to select different charge rates based on different power inputs (USB, external ,etc)
+- Be able to set the charge rate in order to select different charge rates based on different power inputs (USB or external)
 - Feature an On/Off switch in order to disable the charger completely if necessary
 - The fuel gauge needs to be able to report battery statistics to the Metro Mini over I2C at a regular interval such that the tri-color LED can be used as a visual indication of the “fuel” level of the battery
 - Feature a built-in 5V step-up regulator that can take a wide range of input voltage and output a constant 5V (primarily used for stepping up LiPo 3.7V to 5V)
